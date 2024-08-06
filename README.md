@@ -2,7 +2,7 @@
 
 ## 📝 Descrizione
 Questo è il mio primo progetto che ho realizzato durante il corso di Front End Developer. Successivamente, l'ho perfezionato aggiungendo Tailwind CSS e riordinando il codice.
-<br>La Calcolatrice è una semplice applicazione che permette di eseguire operazioni come addizione, sottrazione, divisione, moltiplicazione, e supporta i calcoli con numeri decimali, centesimali e millesimali.</br>
+<br>Questa applicazione permette di eseguire operazioni come addizione, sottrazione, divisione, moltiplicazione, e supporta i calcoli con numeri decimali, centesimali e millesimali.</br>
 
 ## 🔧 Tecnologie utilizzate
 - HTML
