@@ -9,7 +9,7 @@ Questo è il mio primo progetto che ho realizzato durante il corso di Front End 
 - Tailwind CSS
 - JavaScript
     - *Manipolazione del DOM*
-    - *addEventListener, getElementById, querySelectorAll, arrow Function, slice, includes, eval, toFixed, toString, substring*
+        - *addEventListener, getElementById, querySelectorAll, arrow Function, slice, includes, eval, toFixed, toString, substring*
       
 ## 📥 Istruzioni per l'installazione
 
