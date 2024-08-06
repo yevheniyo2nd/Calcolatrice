@@ -4,5 +4,9 @@ Questo è il mio primo progetto che ho realizzato durante il corso di Front end 
 
 <h2> Tecnologie utilizzate </h2>
 Html, tailwind, JavaScript
+
 <h2> Istruzioni per l'installazione </h2>
+Metodo n1
+Scaricare Zip file Premendo Download Zip
+
 <h2> Istruzioni per l'uso </h2>
