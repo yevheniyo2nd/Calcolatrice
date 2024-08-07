@@ -34,4 +34,4 @@ Questo è il mio primo progetto che ho realizzato durante il corso di Front End 
 <br>✅ Ottimo! Il progetto è stato copiato.</br>
 
 ## 🖱️ Istruzioni per l'uso
-Tutto il progetto è manipolabile con il Mouse (LMB - Left mouse button).
+Tutto il progetto è manipolabile con il Mouse `LMB - Left mouse button`.
