@@ -19,7 +19,7 @@ Questo è il mio primo progetto che ho realizzato durante il corso di Front End 
   4. Fare clic con il tasto `RMB - Right mouse button` sulla cartella ZIP e selezionare `Estrarre tutto`.
   5. Scegliere il percorso dove si desidera estrarre il contenuto (di default i contenuti verranno estratti dove attualmente si trova la cartella ZIP).
   6. Premere `Estrarre`.
-  <br>✅ Ottimo! Ora si possono usare i contenuti scaricati..</br>
+  <br>✅ Ottimo! Ora si possono usare i contenuti scaricati.</br>
 
 ### :small_blue_diamond: Metodo N2: Copiare il progetto attraverso HTTPS
 1. Creare una nuova cartella.
